@@ -4,7 +4,7 @@ This project predicts the likelihood of a heart attack using machine learning te
 
 ## 💡 About the Project
 - Uses a dataset with features like age, cholesterol, resting ECG, etc.
-- Achieves 91.8% accuracy using Random Forest Classifier.
+- Achieves 91.8% accuracy using SVM.
 - Includes data preprocessing, EDA (Exploratory Data Analysis), feature selection, model building, and evaluation.
 
 ## 📁 Project Structure
@@ -41,4 +41,4 @@ This project predicts the likelihood of a heart attack using machine learning te
 Dataset used: `heart.csv` – included in `data/` folder.
 
 ## 📈 Model Accuracy
-Achieved **91.8% accuracy** using Random Forest Classifier.
+Achieved **91.8% accuracy** using SVM.
