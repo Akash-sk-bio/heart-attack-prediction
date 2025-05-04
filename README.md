@@ -82,7 +82,7 @@ heart-attack-prediction/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/heart-attack-prediction.git
+   git clone https://github.com/Akash-sk-bio/heart-attack-prediction.git
    cd heart-attack-prediction
    ```
 
